@@ -1,0 +1,121 @@
+PTENVariant	Class	SNAP2	CADD
+4A	Biochemical mutants	NA	NA
+A121E	Bioinformatics High impact	79	32
+A121P	Bioinformatics High impact	83	33
+A126P	Bioinformatics High impact	79	32
+A126D	Bioinformatics High impact	76	32
+A151P	Bioinformatics High impact	81	33
+A309S	Bioinformatics Low impact	-80	4.925
+A34D	Bioinformatics High impact	86	32
+A34P	Bioinformatics High impact	82	33
+A79T	ExAC	-95	13.23
+C124S	Biochemical mutants	83	27.5
+C124S-4A	Biochemical mutants	NA	NA
+C136fs	ASD	NA	NA
+C211W	ASD	73	25.5
+D107G	ASD	39	26.1
+D107V	ASD	25	25.2
+D22E	ASD	18	16.84
+D252G	ASD	80	26.5
+D268E	ExAC	-89	1.668
+D326N	ASD	74	35
+D92N	ASD	NA	NA
+E157G	ASD	8	25.3
+E256K	Bioinformatics High impact	79	35
+E307Q	ExAC	-76	14.28
+E73K	Bioinformatics High impact	76	36
+F241S	ASD	21	17.1
+F279I	Bioinformatics High impact	81	31
+F279L	Bioinformatics High impact	83	31
+F56C	ExAC	12	22
+G127R	Bioinformatics High impact	91	32
+G129E	Biochemical mutants	89	29.7
+G129R	ClinVar	92	31
+G132D	ASD	92	31
+E285X	ASD	NA	48
+G36E	Bioinformatics High impact	82	31
+G44D	ASD	65	31
+H118P	ASD	85	23.6
+H123Q	ASD	82	21.5
+H123Y	ClinVar	80	28.2
+H93Q	Unclassified	NA	NA
+H93R	ASD	64	23.2
+H93Y	ASD	67	26.3
+I101F	ClinVar	6	27.6
+I101T	ASD	44	23.4
+I135fs	ASD	NA	NA
+I135T	ExAC	33	24.2
+I135V	ClinVar	-72	20.7
+I203V	Bioinformatics Low impact	-84	4.851
+K322E	Bioinformatics High impact	84	31
+K330E	Bioinformatics High impact	81	31
+K6E	ASD	67	19.93
+K6I	ASD	64	18.24
+L139X	ASD	NA	48
+L295V	Bioinformatics Low impact	-67	4.363
+L320X	ASD	NA	48
+L70V	ASD	49	21.6
+M134I	ASD	-15	32
+M134T	ASD	-22	22
+M198I	ExAC	-85	8.539
+M1I	ASD	-92	19.05
+N117S	ExAC	-92	10.49
+N12T	ASD	-39	16.03
+N228S	ExAC	-78	7.946
+N262S	ExAC	-63	11.48
+N276S	ASD	87	24.5
+N356H	ExAC	-82	12.87
+N356D	Unclassified	NA	NA
+P246L	ASD	35	19.43
+P354Q	ExAC	-52	14.55
+P38H	ASD	44	28.1
+pEGH-A	Control	NA	NA
+pEGH-B	Control	NA	NA
+pEGH-C	Control	NA	NA
+pEGH-D	Control	NA	NA
+pEGH-E	Control	NA	NA
+pEGH-F	Control	NA	NA
+pEGH-G	Control	NA	NA
+pEGH-H	Control	NA	NA
+pEGH-I	Control	NA	NA
+pEGH-J	Control	NA	NA
+pEGH-K	Control	NA	NA
+pEGH-L	Control	NA	NA
+pEGH-M	Control	NA	NA
+pEGH-N	Control	NA	NA
+pEGH-O	Control	NA	NA
+Q171E	ASD	45	27.2
+Q298E	ExAC	-75	10.98
+Q396R	Unclassified	NA	NA
+R130L	ASD	92	34
+R130Q	Bioinformatics High impact	81	36
+R130X	ASD	NA	48
+R14G	ASD	52	16.13
+R15S	ASD	65	21.7
+R173H	ASD	54	35
+R173P	Bioinformatics High impact	80	31
+R335X	ASD	NA	48
+P357S	Bioinformatics Low impact	-81	3.1
+R47K	Bioinformatics High impact	82	35
+R47W	Bioinformatics High impact	90	31
+T131I	ASD	80	27.8
+T167N	ASD	45	28.6
+T202I	ASD	-14	28.5
+T348S	Bioinformatics Low impact	-83	3.372
+T363N	ExAC	-53	12.86
+T78A	ASD	-77	12.12
+V255A	ASD	36	22
+W274L	ASD	81	26.1
+WT1	Wildtype overexpression	NA	NA
+WT2	Wildtype overexpression	NA	NA
+WT3	Wildtype overexpression	NA	NA
+WT4	Wildtype overexpression	NA	NA
+Y138L	Biochemical mutants	44	NA
+Y176C	ASD	-47	13.94
+Y178X	ASD	NA	50
+Y180H	ExAC	-78	11.78
+Y27C	ASD	17	16.92
+Y346F	Bioinformatics Low impact	-55	0.328
+Y65C	ASD	33	20.7
+Y68H	ASD	86	23.3
+Y68N	ASD	87	23.7

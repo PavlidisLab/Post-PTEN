@@ -31,3 +31,32 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+.Rproj.user
+
+
+################## End of templated part ###############
+## Project structure specific
+Data/
+RawData/
+res/
+ExternalData/
+backup*
+scratch/
+safekeep/
+
+# Prefixes/Suffixes
+.*
+*~
+TODO*
+
+## Data files
+*.tsv
+*.df
+
+## Documents
+*.html
+*.pdf
+
+## Image files
+*.png
+*.eps
